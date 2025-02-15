@@ -1,9 +1,10 @@
 ﻿namespace InterfacesAssignment
 {
-    internal class Program
+    internal class PayPal : IPayment
     {
-        static void Main(string[] args)
+        public void Payment()
         {
+
         }
     }
 }
